@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VitalyOborin
+- 👀 I’m interested in PHP, Golang, Symfony, Architecture, Microservices, Highload
+- 🌱 I’m currently learning Architecture and IT Management
